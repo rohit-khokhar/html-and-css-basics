@@ -1,0 +1,49 @@
+span{
+    color: rgb(182, 105, 6);
+}
+
+
+.green {
+    color: white;
+}
+
+
+   .underline{
+    text-decoration: underline purple ;
+}
+
+.yellowBg {
+    background-color: black;
+}
+
+
+
+
+.card{
+    
+    color: rgb(170, 60, 60);
+}
+h3{
+    color: rgb(204, 27, 189);
+}
+@media (orientation:portrait){
+    p{
+        color: aqua;
+    }
+}
+
+.card{
+
+background-color: white; }
+
+h4{
+    color: tomato;
+}
+
+#mainImg {
+    height: 100px;
+}
+.oldImg { 
+    height: 80%;
+    width: 30%;
+}

@@ -1,0 +1,49 @@
+div{
+    height: 200px;
+    width: 500px; 
+    /* background-color: pink; */
+    /* border-width:5px ;  */
+     /* border-style: solid; */
+     /* border-color:yellow;  */
+     /* border-left-color:blue ; */
+     
+      border-left-style:solid;  
+     border-top: 5px solid blue;
+     border-radius: 15px;
+     border-right-style: solid ;
+     border-bottom: solid;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-left: 20px;
+     padding-right: 20px;
+     margin-bottom: 25px;
+     background-color: palegoldenrod;
+     color:black;
+     
+}
+
+/* h1{ */
+    /* border-width: 2px; */
+    /* border-style: dashed; */
+    /* border-color:green; */
+/* } */
+h1{
+    border: 2px solid green;
+}
+ button{
+    border: 2px solid black;
+     border-radius: 10px;
+    /* padding-left: 25px; */
+    /* padding-right: 25px; */
+    /* padding: 10px 20px 30px 40px; */
+    padding: 10px;
+
+ }
+ button:hover{
+    color: black;
+    background-color: red;
+ }
+ button:active{
+    color:black;
+    background-color: palevioletred;
+ }

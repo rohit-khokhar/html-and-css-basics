@@ -1,0 +1,20 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0,255,0,1);
+     /* transition-duration: 1s; */
+     /* transition-delay: 1s; */
+     /* margin-top: 10px; */
+     margin: 0 auto;    
+     /* use for centre  */
+     transition: margin-top 1s cubic-bezier();
+}
+/* div:hover {
+    background-color: black;
+     border-radius: 50%;
+} */
+
+div:hover{
+    margin-top: 400px;
+    background-color: pink;
+}
